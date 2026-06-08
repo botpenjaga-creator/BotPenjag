@@ -6,7 +6,7 @@ const BOT_CONFIG = {
   host: "SMPVI2026.aternos.me",
   port: 48644,
   username: "BotPenjaga_New",
-  version: "false",
+  version: false,
   hideErrors: false,
   auth: "offline",
 };
