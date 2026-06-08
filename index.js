@@ -3,9 +3,9 @@ const express = require("express");
 
 // ─── Konfigurasi Bot ───────────────────────────────────────────────────────
 const BOT_CONFIG = {
-  host: "SMPVI202.aternos.me",
-  port: 48644,
-  username: "BotPenjaga_New",
+  host: "SMP02.aternos.me",
+  port: 486897,
+  username: "bitpinjigi",
   version: false,
   hideErrors: false,
   auth: "offline",
